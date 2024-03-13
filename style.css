@@ -1,6 +1,6 @@
 @font-face {
   font-family: "8bitoperator JVE Regular";
-  src: url("/media/fonts/8bitoperator_jve.woff") format("woff");
+  src: url("/8bitoperator_jve.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   size-adjust: 135%;
